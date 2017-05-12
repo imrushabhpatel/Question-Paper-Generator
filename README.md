@@ -10,7 +10,7 @@ Features of the Model:-
 -	Question paper can be generated for any subject.
 -	Question bank can be entered or modified by the educational institutes.
 
-	Advantages:
+Advantages:
 -	Minimizing the burden of paper generation.
 -	Minimizing the burden of paper generation.
 -	Ensure no duplicity of question in frequently conducted exams.
