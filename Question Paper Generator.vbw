@@ -1,0 +1,8 @@
+SubjectForm = 0, 0, 688, 398, Z, 132, 174, 731, 630, C
+AddSubjects = 110, 145, 733, 577, C, 110, 145, 733, 577, C
+MainModule = 44, 58, 667, 490, C
+ChoiceForm = 110, 145, 733, 577, C, 88, 116, 711, 548, C
+QuestionBankForm = 0, 0, 623, 432, C, 22, 29, 645, 461, C
+BitPatternForm = 88, 116, 711, 548, C, 66, 87, 689, 519, C
+SubQuestionFrm = 44, 58, 667, 490, C, 22, 29, 645, 461, C
+MaestrosSuiteFrm = 22, 29, 710, 427, C, 44, 58, 643, 514, C
