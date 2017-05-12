@@ -1,4 +1,4 @@
-#Question-Paper-Generator#
+Question Paper Generator
 Question Paper Generator is very useful software for students, schools, colleges, coaching centers, tutors, paper setter, competitive exams tutors, professional course learning centers and training institutes intended to generate Question Test Papers frequently.
 
 Question Paper Generator is unique software developed to overcome problem faced by the institution in conducting daily, weekly and monthly test. This software is designed in such a manner that it keeps record in hierarchy of Subject >Units >Chapters >Questions
